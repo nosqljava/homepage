@@ -9,5 +9,7 @@
 <body>
 <jsp:include page="/menu/top.jsp"/>
 
+<H1>안녕하세요</H1>
+
 </body>
 </html>
